@@ -1,0 +1,20 @@
+<h1 align="center">MY GALERI</h1>
+<img src="gambar/beruang.jpg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/buaya.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/capibara.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/angsa.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/ayam.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/dara.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/domba.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/gajah.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/harimau.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/jerapah.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/kancil.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/kucing.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/kura-kura.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/panda.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/pandamerah.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/singa.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/tapir.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/simpanse.jpeg"  width="10%" alt="" border="2" hspace="10" vspace="10">
+<img src="gambar/koala.jpeg" width="10%" alt="" border="2" hspace="10" vspace="10">
